@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\proteinx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.services.couponapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|solutionrelative:proteinx.services.couponapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|solutionrelative:proteinx.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|solutionrelative:proteinx.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|solutionrelative:proteinx.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.web\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|solutionrelative:proteinx.web\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|solutionrelative:proteinx.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|solutionrelative:proteinx.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.services.couponapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|solutionrelative:proteinx.services.couponapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.web\\service\\iservices\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|solutionrelative:proteinx.web\\service\\iservices\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.services.couponapi\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|solutionrelative:proteinx.services.couponapi\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|solutionrelative:proteinx.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|solutionrelative:proteinx.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.web\\views\\coupon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|solutionrelative:proteinx.web\\views\\coupon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.web\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|solutionrelative:proteinx.web\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.services.couponapi\\proteinx.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|solutionrelative:proteinx.services.couponapi\\proteinx.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.services.couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|solutionrelative:proteinx.services.couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.web\\views\\coupon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|solutionrelative:proteinx.web\\views\\coupon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.web\\views\\coupon\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|solutionrelative:proteinx.web\\views\\coupon\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.web\\views\\coupon\\detailsbyindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C152160-772A-45E3-BCFE-EB9EE3E9B37C}|Proteinx.Web\\Proteinx.Web.csproj|solutionrelative:proteinx.web\\views\\coupon\\detailsbyindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.services.couponapi\\models\\dtos\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|solutionrelative:proteinx.services.couponapi\\models\\dtos\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|c:\\users\\admin\\source\\repos\\proteinx\\proteinx.services.couponapi\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF38900A-513C-432A-BEC5-02CAC44903F0}|Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj|solutionrelative:proteinx.services.couponapi\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 312,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\services\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Proteinx.Services.CouponApi\\services\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\services\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Proteinx.Services.CouponApi\\services\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:23:31.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\Program.cs",
+              "RelativeDocumentMoniker": "Proteinx.Services.CouponApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\Program.cs",
+              "RelativeToolTip": "Proteinx.Services.CouponApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:17:50.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICouponService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Service\\IServices\\ICouponService.cs",
+              "RelativeDocumentMoniker": "Proteinx.Web\\Service\\IServices\\ICouponService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Service\\IServices\\ICouponService.cs",
+              "RelativeToolTip": "Proteinx.Web\\Service\\IServices\\ICouponService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:06:49.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Proteinx.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Program.cs",
+              "RelativeToolTip": "Proteinx.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:53:05.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Proteinx.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Proteinx.Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:35:05.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CouponApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\Controllers\\CouponApiController.cs",
+              "RelativeDocumentMoniker": "Proteinx.Services.CouponApi\\Controllers\\CouponApiController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\Controllers\\CouponApiController.cs",
+              "RelativeToolTip": "Proteinx.Services.CouponApi\\Controllers\\CouponApiController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAtwBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:54:02.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Proteinx.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Proteinx.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwB8AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T12:06:23.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Service\\CouponService.cs",
+              "RelativeDocumentMoniker": "Proteinx.Web\\Service\\CouponService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Service\\CouponService.cs",
+              "RelativeToolTip": "Proteinx.Web\\Service\\CouponService.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:08:53.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CouponController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Controllers\\CouponController.cs",
+              "RelativeDocumentMoniker": "Proteinx.Web\\Controllers\\CouponController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Controllers\\CouponController.cs",
+              "RelativeToolTip": "Proteinx.Web\\Controllers\\CouponController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwEcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:22:30.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Proteinx.Services.CouponApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Proteinx.Services.CouponApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:24:52.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Service\\BaseService.cs",
+              "RelativeDocumentMoniker": "Proteinx.Web\\Service\\BaseService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Service\\BaseService.cs",
+              "RelativeToolTip": "Proteinx.Web\\Service\\BaseService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:56:36.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Views\\Auth\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proteinx.Web\\Views\\Auth\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Views\\Auth\\Index.cshtml",
+              "RelativeToolTip": "Proteinx.Web\\Views\\Auth\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T11:04:34.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Proteinx.Services.CouponApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj",
+              "RelativeDocumentMoniker": "Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj",
+              "RelativeToolTip": "Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-10T12:08:57.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Views\\Coupon\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proteinx.Web\\Views\\Coupon\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Views\\Coupon\\Index.cshtml",
+              "RelativeToolTip": "Proteinx.Web\\Views\\Coupon\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T13:35:10.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "Proteinx.Services.CouponApi\\Models\\Coupon.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\Models\\Coupon.cs",
+              "RelativeToolTip": "Proteinx.Services.CouponApi\\Models\\Coupon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:19:44.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Views\\Coupon\\Create.cshtml",
+              "RelativeDocumentMoniker": "Proteinx.Web\\Views\\Coupon\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Views\\Coupon\\Create.cshtml",
+              "RelativeToolTip": "Proteinx.Web\\Views\\Coupon\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T13:24:14.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Proteinx.Services.CouponApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Proteinx.Services.CouponApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:53:12.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DetailsByIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Views\\Coupon\\DetailsByIndex.cshtml",
+              "RelativeDocumentMoniker": "Proteinx.Web\\Views\\Coupon\\DetailsByIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Views\\Coupon\\DetailsByIndex.cshtml",
+              "RelativeToolTip": "Proteinx.Web\\Views\\Coupon\\DetailsByIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T12:17:03.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Views\\Coupon\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Proteinx.Web\\Views\\Coupon\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Web\\Views\\Coupon\\Edit.cshtml",
+              "RelativeToolTip": "Proteinx.Web\\Views\\Coupon\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T07:15:32.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\Models\\Dtos\\CouponDto.cs",
+              "RelativeDocumentMoniker": "Proteinx.Services.CouponApi\\Models\\Dtos\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\Models\\Dtos\\CouponDto.cs",
+              "RelativeToolTip": "Proteinx.Services.CouponApi\\Models\\Dtos\\CouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:25:41.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Proteinx.Services.CouponApi\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\proteinx\\Proteinx.Services.CouponApi\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "Proteinx.Services.CouponApi\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:47:12.673Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 88,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

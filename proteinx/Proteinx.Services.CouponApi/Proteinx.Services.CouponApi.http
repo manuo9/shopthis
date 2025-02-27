@@ -1,0 +1,6 @@
+@Proteinx.Services.CouponApi_HostAddress = http://localhost:5075
+
+GET {{Proteinx.Services.CouponApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

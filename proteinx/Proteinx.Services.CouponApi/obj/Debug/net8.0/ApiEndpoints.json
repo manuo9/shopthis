@@ -1,0 +1,117 @@
+[
+  {
+    "ContainingType": "Proteinx.Services.CouponApi.Controllers.CouponApiController",
+    "Method": "GetAll",
+    "RelativePath": "api/CouponApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proteinx.Services.CouponApi.Controllers.CouponApiController",
+    "Method": "CreateCoupon",
+    "RelativePath": "api/CouponApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "couponDto",
+        "Type": "Proteinx.Services.CouponApi.Models.Dtos.CouponDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proteinx.Services.CouponApi.Controllers.CouponApiController",
+    "Method": "GetCouponById",
+    "RelativePath": "api/CouponApi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proteinx.Services.CouponApi.Controllers.CouponApiController",
+    "Method": "UpdateCouponById",
+    "RelativePath": "api/CouponApi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "couponDto",
+        "Type": "Proteinx.Services.CouponApi.Models.Dtos.CouponDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proteinx.Services.CouponApi.Controllers.CouponApiController",
+    "Method": "DeleteCouponById",
+    "RelativePath": "api/CouponApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proteinx.Services.CouponApi.Controllers.CouponApiController",
+    "Method": "ExportToExcel",
+    "RelativePath": "api/CouponApi/export",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proteinx.Services.CouponApi.Controllers.AuthController",
+    "Method": "Index",
+    "RelativePath": "auth/index",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proteinx.Services.CouponApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "Proteinx.Services.CouponApi.Controllers.AuthController\u002BLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

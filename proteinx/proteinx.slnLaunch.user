@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Proteinx.Services.CouponApi\\Proteinx.Services.CouponApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Proteinx.Web\\Proteinx.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
